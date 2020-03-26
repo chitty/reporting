@@ -21,7 +21,7 @@ with open('reports/trade8.csv') as csv_file:
         else:
             line_count += 1
             total_amount += int(row[4])
-            total_pnl += float(row[10])
+            total_pnl += float(row[10]) # P/L includes decay
             total_decay += int(row[11])
             if float(row[10]) > 0:
                 winners += 1
@@ -34,11 +34,10 @@ with open('reports/trade8.csv') as csv_file:
     print(f'Total volume traded: {total_amount} = {total_amount*0.001} BTC ~{x}x to withdrawal ')
     print(f'Total P/L: {pnl_in_satoshis} satoshis / {total_pnl} BTC')
     print(f'Total decay: {total_decay} satoshis / {total_decay/SATOSHIS_TO_BTC} BTC')
-    print(f'Total P/L + decay: {int(pnl_in_satoshis + total_decay)} satoshis')
+    print(f'Total P/L without decay: {int(pnl_in_satoshis - total_decay)} satoshis')
     print(f'{winners} winning trades VS {losers} losing trades')
 
-    trading_outcome = (pnl_in_satoshis + total_decay)/SATOSHIS_TO_BTC
-    balance = DEPOSIT + BONUS + trading_outcome
+    balance = DEPOSIT + BONUS + total_pnl
     print(f'INITIAL deposit: {DEPOSIT} BTC')
     print(f'Bonus: {BONUS} BTC\n')
     print(f'Current balance: {balance} BTC')
