@@ -1,0 +1,137 @@
+
+Date,"Flight number",From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+2019-10-10,FR9112,"Torino / Caselle (TRN/LIMF)","Barcelona / El Prat (BCN/LEBL)",12:30:00,14:00:00,01:30:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",EI-DLD,,0,1,1,,3008,239,668,231
+2019-10-15,FR9366,"Barcelona / El Prat (BCN/LEBL)","Bologna / Borgo Panigale (BLQ/LIPE)",05:25:00,07:10:00,01:45:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",EI-EBL,,0,1,1,,239,346,668,231
+2019-09-16,6E11,"Delhi / Indira Gandhi (DEL/VIDP)","Istanbul / Istanbul Airport (IST/LTFM)",05:15:00,10:35:00,07:20:00,"IndiGo (6E/IGO)","Airbus A321-200 (A321)",,,0,1,1,,689,8949,1122,2076
+2019-10-03,PC1211,"Istanbul / Sabiha Gokcen (SAW/LTFJ)","Bergamo / Orio Al Serio (BGY/LIME)",13:10:00,14:00:00,02:50:00,"Pegasus Airlines (PC/PGT)","Airbus A320 (A320)",TC-DCJ,,0,1,1,,3659,293,1014,27
+2019-09-29,PC3302,"Izmir / Adnan Menderes (ADB/LTBJ)","Istanbul / Istanbul Airport (IST/LTFM)",11:25:00,12:45:00,01:20:00,"Pegasus Airlines (PC/PGT)","Boeing 737-800 (B738)",,,0,1,1,,36,8949,1014,231
+2019-09-22,PC2184,"Istanbul / Sabiha Gokcen (SAW/LTFJ)","Izmir / Adnan Menderes (ADB/LTBJ)",08:20:00,09:30:00,01:10:00,"Pegasus Airlines (PC/PGT)","Boeing 737-800 (B738)",,,0,1,1,,3659,36,1014,231
+2019-08-28,FD130,"Bangkok / Don Mueang International (DMK/VTBD)","Jaipur / Sanganeer (JAI/VIJP)",19:30:00,22:35:00,05:05:00,"Thai AirAsia (FD/AIQ)","Airbus A320-200 (A320)",,,0,1,1,,3565,1315,1077,2059
+2019-08-26,SL525,"Chiang Mai / Chiang Mai (CNX/VTCC)","Bangkok / Don Mueang International (DMK/VTBD)",06:50:00,08:05:00,01:15:00,"Thai Lion Air (SL/TLM)","Boeing 737-800 (B738)",,,0,0,0,,3642,3565,2010,231
+2019-07-30,AK856,"Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)","Chiang Mai / Chiang Mai (CNX/VTCC)",12:45:00,14:35:00,02:50:00,"Air Asia (AK/AXM)","Airbus A320-200 (A320)",,,0,0,0,,1527,3642,103,2059
+2019-07-28,AK379,"Denpasar Bali / Ngurah Rai (DPS/WRRR)","Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)",19:55:00,23:05:00,03:10:00,"Air Asia (AK/AXM)","Airbus A320-200 (A320)",,,0,0,0,,3582,1527,103,2059
+2019-06-30,OD173,"Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)","Denpasar Bali / Ngurah Rai (DPS/WRRR)",19:55:00,23:05:00,03:10:00,"Malindo Air (OD/MXD)","Boeing 737-900 (B739)",,,0,0,0,,1527,3582,2372,232
+2019-06-29,OD581,"Phnom Penh / Pochentong (PNH/VDPP)","Kuala Lumpur / Kuala Lumpur International (KUL/WMKK)",11:20:00,14:20:00,02:00:00,"Malindo Air (OD/MXD)","Boeing 737-800 (B738)",,,0,0,0,,2362,1527,2372,231
+2019-06-13,5J257,"Manila / Ninoy Aquino International (MNL/RPLL)","Siem Reap / Angkor Wat (REP/VDSR)",19:55:00,22:35:00,03:40:00,"Cebu Pacific (5J/CEB)","Airbus A320-200 (A320)",,,0,0,0,,1898,2502,906,2059
+2019-06-12,Z2772,"Lapu-Lapu / Mactan-Cebu (CEB/RPVM)","Manila / Ninoy Aquino International (MNL/RPLL)",21:25:00,22:50:00,01:25:00,"Air Asia (AK/AXM)","Airbus A320-200 (A320)",,,0,0,0,,2086,1898,103,2059
+2019-06-02,PR2683,"Busuanga / Francisco B. Reyes (USU/RPVV)","Lapu-Lapu / Mactan-Cebu (CEB/RPVM)",07:00:00,08:25:00,01:25:00,"Philippine Airlines (PR/PAL)","Bombardier Dash 8 (DH8X)",,,0,0,0,,3725,2086,597,2031
+2019-05-16,5J745,"Hanoi / Noibai (HAN/VVNB)","Manila / Ninoy Aquino International (MNL/RPLL)",08:15:00,12:40:00,03:25:00,"Cebu Pacific (5J/CEB)","Airbus A320-200 (A320)",,,0,0,0,,1094,1898,906,2059
+2019-05-17,PR2787,"Manila / Ninoy Aquino International (MNL/RPLL)","Puerto Princesa / Puerto Princesa (PPS/RPVP)",17:10:00,18:25:00,01:15:00,"Philippine Airlines (PR/PAL)","Airbus A321-200 (A321)",,,0,0,0,,1898,2394,597,2076
+2019-03-12,VJ808,"Phuket / Phuket (HKT/VTSP)","Hochiminh / Tan Son Nhat (SGN/VVTS)",14:10:00,16:05:00,01:55:00,"VietJet Air (VJ/VJC)","Airbus A320-200 (A320)",,,0,0,0,,1137,2650,1632,2059
+2019-02-01,DD7910,"Bangkok / Don Mueang International (DMK/VTBD)","Krabi / Krabi (KBV/VTSG)",06:30:00,07:45:00,01:15:00,"Nok Air (DD/NOK)","Boeing 737-800 (B738)",,,0,0,0,,3565,3562,1244,231
+2019-01-27,EW1106,"Dusseldorf / Dusseldorf International (DUS/EDDL)","Bangkok / Suvarnabhumi (BKK/VTBS)",18:15:00,12:40:00,12:25:00,"Eurowings (EW/EWG)","Airbus A330-200 (A332)",,,0,0,0,,763,331,282,30
+2019-01-23,TP224,"Miami / Miami International (MIA/KMIA)","Lisbon / Portela (LIS/LPPT)",17:45:00,05:45:00,08:00:00,"TAP Air Portugal (TP/TAP)","Airbus A330-900neo (A339)",,,0,0,0,,1831,1632,753,2130
+2019-01-26,TP542,"Lisbon / Portela (LIS/LPPT)","Dusseldorf / Dusseldorf International (DUS/EDDL)",17:40:00,21:40:00,03:00:00,"TAP Air Portugal (TP/TAP)","Airbus A319-200 (A319)",,,0,0,0,,1632,763,753,2074
+2019-03-14,VN0114,"Hochiminh / Tan Son Nhat (SGN/VVTS)","Danang / Da Nang (DAD/VVDN)",22:05:00,23:25:00,01:20:00,"Vietnam Airlines (VN/HVN)","Airbus A321 (A321)",,,0,0,0,,2650,671,366,28
+2019-01-09,CM620,"Bogota / Eldorado Intl. (BOG/SKBO)","Panama City / Tocumen (PTY/MPTO)",08:40:00,10:31:00,01:51:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,371,2418,194,231
+2019-01-09,CM478,"Panama City / Tocumen (PTY/MPTO)","Orlando / Orlando (MCO/KMCO)",11:42:00,16:16:00,03:34:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,2418,1768,194,231
+2018-12-31,LA4115,"Cartagena / Cartagena (CTG/SKCG)","Bogota / Eldorado Intl. (BOG/SKBO)",20:03:00,21:28:00,01:25:00,"LATAM Airlines (LA/LAN)","Airbus A320-200 (A320)",,,0,0,0,,628,371,2656,2059
+2018-12-18,P57216,"Medellin / Jose Maria Cordova (MDE/SKRG)","Cartagena / Cartagena (CTG/SKCG)",20:16:00,21:25:00,01:09:00,"Aero Republica (P5/RPB)","Airbus A320-200 (A320)",,,0,0,0,,1777,628,656,2059
+2018-12-17,7P304,"Panama City / Marcos A Gelabert (PAC/MPMG)","Medellin / Jose Maria Cordova (MDE/SKRG)",00:00:00,00:00:00,00:59:00,"Air Panama (7P/PST)"," ()",,,0,0,0,,2252,1777,1591,0
+2018-12-12,P57042,"Medellin / Jose Maria Cordova (MDE/SKRG)","Balboa / Balboa Panama Pacifico International Airport (BLB/MPPA)",10:43:00,11:54:00,01:11:00,"Aero Republica (P5/RPB)","Boeing 737-700 (B737)",,,0,0,0,,1777,6752,656,230
+2018-12-10,LA4026,"Bogota / Eldorado Intl. (BOG/SKBO)","Medellin / Jose Maria Cordova (MDE/SKRG)",18:53:00,19:51:00,00:58:00,"LATAM Airlines (LA/LAN)","Airbus A320-200 (A320)",,,0,0,0,,371,1777,2656,2059
+2018-11-28,LA4114,"Bogota / Eldorado Intl. (BOG/SKBO)","Cartagena / Cartagena (CTG/SKCG)",18:06:00,19:31:00,01:25:00,"LATAM Airlines (LA/LAN)","Airbus A319-200 (A319)",,,0,0,0,,371,628,2656,2074
+2018-12-05,LA4093,"Cartagena / Cartagena (CTG/SKCG)","Bogota / Eldorado Intl. (BOG/SKBO)",10:56:00,12:21:00,01:25:00,"LATAM Airlines (LA/LAN)","Airbus A319-200 (A319)",,,0,0,0,,628,371,2656,2074
+2018-10-13,O6844,"Fortaleza / Fortaleza (FOR/SBFZ)","Bogota / Eldorado Intl. (BOG/SKBO)",16:25:00,20:15:00,05:50:00,"Avianca Brazil (O6/ONE)"," ()",,,0,0,0,,916,371,1372,0
+2018-08-08,G32028,"Rio de Janeiro / Galeao (GIG/SBGL)","Salvador / Salvador (SSA/SBSV)",12:10:00,14:10:00,02:00:00,"GOL (G3/GLO)","Boeing 737-800 (B738)",,,0,0,0,,991,2769,330,231
+2018-10-04,G31838,"Natal / Natal (NAT/SBNT)","Fortaleza / Fortaleza (FOR/SBFZ)",17:20:00,18:20:00,01:00:00,"GOL (G3/GLO)","Boeing 737-800 (B738)",,,0,0,0,,2018,916,330,231
+2018-07-28,LA3793,"Curitiba / Curitiba (CWB/SBCT)","Rio de Janeiro / Galeao (GIG/SBGL)",13:45:00,15:10:00,01:25:00,"LATAM Airlines (LA/LAN)","Airbus A320-200 (A320)",,,0,0,0,,644,991,2656,2059
+2018-07-02,LA7558,"Buenos Aires / Jorge Newbery (AEP/SABE)","Salta / Salta (SLA/SASA)",19:15:00,21:24:00,02:09:00,"LATAM Airlines (LA/LAN)","Airbus A320-200 (A320)",,,0,0,0,,51,2705,2656,2059
+2018-07-18,AR2812,"Salta / Salta (SLA/SASA)","Iguazu / Iguazu (IGR/SARI)",15:55:00,17:40:00,01:45:00,"Aerolineas Argentinas (AR/ARG)","Embraer ERJ-190 (E190)",,,0,0,0,,2705,1219,78,655
+2018-02-15,OY860,"Buenos Aires / Jorge Newbery (AEP/SABE)","S C De Bariloche / San Carlos De Bariloche (BRC/SAZS)",12:15:00,14:35:00,02:20:00,"Andes Lineas Aereas (OY/ANS)"," ()",,,0,0,0,,51,394,2136,0
+2018-02-19,OY863,"S C De Bariloche / San Carlos De Bariloche (BRC/SAZS)","Buenos Aires / Jorge Newbery (AEP/SABE)",10:40:00,12:40:00,02:00:00,"Andes Lineas Aereas (OY/ANS)"," ()",,,0,0,0,,394,51,2136,0
+2018-02-23,AR2540,"Buenos Aires / Jorge Newbery (AEP/SABE)","Mendoza / El Plumerillo (MDZ/SAME)",05:55:00,07:50:00,01:55:00,"Aerolineas Argentinas (AR/ARG)","Embraer ERJ-190 (E190)",,,0,0,0,,51,1787,78,655
+2018-02-26,AR1467,"Mendoza / El Plumerillo (MDZ/SAME)","Buenos Aires / Jorge Newbery (AEP/SABE)",18:25:00,20:00:00,01:35:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-800 (B738)",,,0,0,0,,1787,51,78,231
+2017-05-20,NK859,"Fort Lauderdale / Hollywood (FLL/KFLL)","Cartagena / Cartagena (CTG/SKCG)",10:50:00,12:46:00,02:56:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,892,628,565,0
+2017-06-13,LA4225,"Santa Marta / Simon Bolivar (SMR/SKSM)","Medellin / Jose Maria Cordova (MDE/SKRG)",11:26:00,12:39:00,01:13:00,"LATAM Airlines (LA/LAN)","Airbus A320 (A320)",,,0,0,0,,2721,1777,2656,27
+2017-10-30,P90223,"Cuzco / Velazco Astete (CUZ/SPZO)","Arequipa / Rodriguez Ballon (AQP/SPQU)",06:40:00,07:40:00,01:00:00,"Peruvian Airlines (P9/PVN)"," ()",,,0,0,0,,643,151,1443,0
+2017-09-18,VV503,"Piura / Piura (PIU/SPUR)","Lima / Jorge Chavez International (LIM/SPIM)",17:34:00,19:07:00,01:33:00,"Viva Airlines Peru (VV/VPE)","Airbus A320-200 (A320)",,,0,0,0,,2322,1626,1687,2059
+2017-10-03,VV750,"Lima / Jorge Chavez International (LIM/SPIM)","Cuzco / Velazco Astete (CUZ/SPZO)",05:00:00,06:33:00,01:33:00,"Viva Airlines Peru (VV/VPE)","Airbus A320-200 (A320)",,,0,0,0,,1626,643,1687,2059
+2017-11-20,H2241,"Calama / El Loa (CJC/SCCF)","Santiago / Comodoro Arturo Merino Benitez (SCL/SCEL)",07:55:00,10:00:00,02:05:00,"Sky Airline (H2/SKU)","Airbus A320-200 (A320)",,,0,0,0,,563,2606,708,2059
+2017-12-04,OY871,"Mendoza / El Plumerillo (MDZ/SAME)","Buenos Aires / Jorge Newbery (AEP/SABE)",09:05:00,10:45:00,01:40:00,"Andes Lineas Aereas (OY/ANS)"," ()",,,0,0,0,,1787,51,2136,0
+2017-03-02,NK565,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Orlando / Orlando (MCO/KMCO)",11:33:00,13:38:00,02:05:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,179,1768,565,0
+2017-03-12,NK770,"Orlando / Orlando (MCO/KMCO)","Atlanta / Hartsfield-Jackson (ATL/KATL)",17:19:00,19:17:00,01:58:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,1768,179,565,0
+2017-04-20,AA1376,"Atlanta / Hartsfield-Jackson (ATL/KATL)","New York / La Guardia (LGA/KLGA)",16:34:00,18:44:00,02:10:00,"American Airlines (AA/AAL)","Embraer ERJ-190 (E190)",,,0,0,0,,179,1605,4,655
+2017-04-27,F91511,"New York / La Guardia (LGA/KLGA)","Atlanta / Hartsfield-Jackson (ATL/KATL)",18:59:00,21:46:00,02:47:00,"Frontier Airlines (F9/FFT)","Airbus A320-200 (A320)",,,0,0,0,,1605,179,302,2059
+2017-01-13,QL902,"Maiquetia / Simon Bolivar (CCS/SVMI)","Porlamar / Del Caribe Santiano Marino (PMV/SVMG)",04:00:00,04:50:00,00:50:00,"LASER Airlines (QL/LER)"," ()",,,0,0,0,,503,2355,981,0
+2017-01-17,V01009,"Porlamar / Del Caribe Santiano Marino (PMV/SVMG)","Maiquetia / Simon Bolivar (CCS/SVMI)",16:00:00,16:50:00,00:50:00,"Conviasa (V0/VCV)","Embraer ERJ-190 (E190)",,,0,0,0,,2355,503,1390,655
+2017-01-25,9V42,"Maiquetia / Simon Bolivar (CCS/SVMI)","Barcelona / Jose Antonio (BLA/SVBC)",19:00:00,19:45:00,00:45:00,"Avior Regional (3R/RGR)","Boeing 737-200 (B732)",,,0,0,0,,503,339,2255,225
+2017-01-25,9V1220,"Barcelona / Jose Antonio (BLA/SVBC)","Miami / Miami International (MIA/KMIA)",09:30:00,12:15:00,02:45:00,"Avior Regional (3R/RGR)"," ()",,,0,0,0,,339,1831,2255,0
+2017-01-26,AA1715,"Miami / Miami International (MIA/KMIA)","Atlanta / Hartsfield-Jackson (ATL/KATL)",09:37:00,11:41:00,02:04:00,"American Airlines (AA/AAL)","Airbus A319-200 (A319)",,,0,0,0,,1831,179,4,2074
+2016-12-22,9V1018,"Barcelona / Jose Antonio (BLA/SVBC)","Maiquetia / Simon Bolivar (CCS/SVMI)",20:00:00,20:45:00,00:45:00,"Avior Regional (3R/RGR)"," ()",,,0,0,0,,339,503,2255,0
+2016-12-21,9V1221,"Miami / Miami International (MIA/KMIA)","Barcelona / Jose Antonio (BLA/SVBC)",13:45:00,18:30:00,04:45:00,"Avior Regional (3R/RGR)"," ()",,,0,0,0,,1831,339,2255,0
+2016-12-03,NK770,"Orlando / Orlando (MCO/KMCO)","Atlanta / Hartsfield-Jackson (ATL/KATL)",16:19:00,18:17:00,01:58:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,1768,179,565,0
+2016-12-01,NK565,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Orlando / Orlando (MCO/KMCO)",11:33:00,13:38:00,02:05:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,179,1768,565,0
+2016-09-28,NK363,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Houston / George Bush Intercontinental (IAH/KIAH)",07:30:00,08:42:00,02:12:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,179,1204,565,0
+2016-09-28,NK825,"Houston / George Bush Intercontinental (IAH/KIAH)","Oakland / Metropolitan (OAK/KOAK)",12:53:00,14:45:00,03:52:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,1204,2140,565,0
+2016-10-12,NK504,"Oakland / Metropolitan (OAK/KOAK)","Los Angeles / Los Angeles International (LAX/KLAX)",10:45:00,12:17:00,01:32:00,"Spirit Airlines (NK/NKS)","Airbus A319-200 (A319)",,,0,0,0,,2140,1559,565,2074
+2016-10-12,NK403,"Los Angeles / Los Angeles International (LAX/KLAX)","Atlanta / Hartsfield-Jackson (ATL/KATL)",11:52:00,19:15:00,04:23:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,1559,179,565,0
+2016-09-07,AA1700,"Miami / Miami International (MIA/KMIA)","Atlanta / Hartsfield-Jackson (ATL/KATL)",09:35:00,11:24:00,01:49:00,"American Airlines (AA/AAL)"," ()",,,0,0,0,,1831,179,4,0
+2016-08-20,AA968,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",14:19:00,17:55:00,03:36:00,"American Airlines (AA/AAL)"," ()",,,0,0,0,,503,1831,4,0
+2016-05-30,CM221,"Panama City / Tocumen (PTY/MPTO)","Maiquetia / Simon Bolivar (CCS/SVMI)",01:55:00,05:18:00,02:23:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,2418,503,194,231
+2016-05-23,CM534,"Bogota / Eldorado Intl. (BOG/SKBO)","Panama City / Tocumen (PTY/MPTO)",12:08:00,13:53:00,01:45:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,371,2418,194,231
+2016-05-10,NK231,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Fort Lauderdale / Hollywood (FLL/KFLL)",08:20:00,10:10:00,01:50:00,"Spirit Airlines (NK/NKS)","Airbus A321 (A321)",,,0,0,0,,179,892,565,28
+2016-05-10,NK807,"Fort Lauderdale / Hollywood (FLL/KFLL)","Bogota / Eldorado Intl. (BOG/SKBO)",11:27:00,14:15:00,03:48:00,"Spirit Airlines (NK/NKS)"," ()",,,0,0,0,,892,371,565,0
+2016-05-19,AV9839,"Bogota / Eldorado Intl. (BOG/SKBO)","Armenia / El Eden (AXM/SKAR)",07:15:00,08:21:00,01:06:00,"Avianca (AV/AVA)","Airbus A318 (A318)",,,0,0,0,,371,201,95,25
+2016-02-03,AR1252,"Buenos Aires / Ministro Pistarini (EZE/SAEZ)","Rio de Janeiro / Galeao (GIG/SBGL)",11:35:00,14:20:00,02:45:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-800 (B738)",,,0,0,0,,3599,991,78,231
+2016-02-23,AV260,"Rio de Janeiro / Galeao (GIG/SBGL)","Bogota / Eldorado Intl. (BOG/SKBO)",06:25:00,11:03:00,06:38:00,"Avianca (AV/AVA)","Airbus A319-200 (A319)",,,0,0,0,,991,371,95,2074
+2016-02-23,AV0004,"Bogota / Eldorado Intl. (BOG/SKBO)","Miami / Miami International (MIA/KMIA)",14:02:00,17:52:00,02:50:00,"Avianca (AV/AVA)"," ()",,,0,0,0,,371,1831,95,0
+2016-01-01,AR1872,"Buenos Aires / Jorge Newbery (AEP/SABE)","S C De Bariloche / San Carlos De Bariloche (BRC/SAZS)",08:50:00,11:10:00,02:20:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-800 (B738)",,,0,0,0,,51,394,78,231
+2016-01-03,AR1695,"S C De Bariloche / San Carlos De Bariloche (BRC/SAZS)","Buenos Aires / Jorge Newbery (AEP/SABE)",12:30:00,14:30:00,02:00:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-800 (B738)",,,0,0,0,,394,51,78,231
+2015-10-23,AR1722,"Buenos Aires / Jorge Newbery (AEP/SABE)","Iguazu / Iguazu (IGR/SARI)",05:20:00,06:55:00,01:35:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-800 (B738)",,,0,0,0,,51,1219,78,231
+2015-10-25,AR1725,"Iguazu / Iguazu (IGR/SARI)","Buenos Aires / Jorge Newbery (AEP/SABE)",18:32:00,20:35:00,02:03:00,"Aerolineas Argentinas (AR/ARG)"," ()",,,0,0,0,,1219,51,78,0
+2015-06-20,AR1290,"Buenos Aires / Ministro Pistarini (EZE/SAEZ)","Santiago / Comodoro Arturo Merino Benitez (SCL/SCEL)",18:15:00,20:35:00,02:20:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-700 (B737)",,,0,0,0,,3599,2606,78,230
+2015-06-24,AR1291,"Santiago / Comodoro Arturo Merino Benitez (SCL/SCEL)","Buenos Aires / Ministro Pistarini (EZE/SAEZ)",21:25:00,23:25:00,02:00:00,"Aerolineas Argentinas (AR/ARG)","Boeing 737-700 (B737)",,,0,0,0,,2606,3599,78,230
+2015-02-21,LA4438,"Buenos Aires / Jorge Newbery (AEP/SABE)","Ushuaia / Ushuaia (USH/SAWH)",04:40:00,08:25:00,03:45:00,"LATAM Airlines (LA/LAN)"," ()",,,0,0,0,,51,3110,2656,0
+2015-02-28,LA7740,"Ushuaia / Ushuaia (USH/SAWH)","El Calafate / El Calafate (FTE/SAWC)",12:05:00,01:25:00,13:20:00,"LATAM Airlines (LA/LAN)"," ()",,,0,0,0,,3110,3684,2656,0
+2015-03-05,LA7733,"El Calafate / El Calafate (FTE/SAWC)","Buenos Aires / Jorge Newbery (AEP/SABE)",12:28:00,15:25:00,02:57:00,"LATAM Airlines (LA/LAN)","Airbus A320-200 (A320)",,,0,0,0,,3684,51,2656,2059
+2015-01-11,AR1377,"Maiquetia / Simon Bolivar (CCS/SVMI)","Buenos Aires / Ministro Pistarini (EZE/SAEZ)",14:50:00,23:30:00,07:40:00,"Aerolineas Argentinas (AR/ARG)"," ()",,,0,0,0,,503,3599,78,0
+2014-12-24,AR1376,"Buenos Aires / Ministro Pistarini (EZE/SAEZ)","Maiquetia / Simon Bolivar (CCS/SVMI)",07:00:00,12:35:00,06:35:00,"Aerolineas Argentinas (AR/ARG)"," ()",,,0,0,0,,3599,503,78,0
+2014-02-12,V01001,"Maiquetia / Simon Bolivar (CCS/SVMI)","Madrid / Barajas (MAD/LEMD)",22:20:00,12:00:00,08:40:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,503,1739,1390,0
+2014-02-13,UX9118,"Madrid / Barajas (MAD/LEMD)","Tenerife-North / Los Rodeos (TFN/GCXO)",11:50:00,13:45:00,02:55:00,"Air Europa (UX/AEA)","Boeing 737-800 (B738)",,,0,0,0,,1739,2896,22,231
+2014-03-06,UX9117,"Tenerife-North / Los Rodeos (TFN/GCXO)","Madrid / Barajas (MAD/LEMD)",17:55:00,21:45:00,02:50:00,"Air Europa (UX/AEA)","Boeing 787-8 (B788)",,,0,0,0,,2896,1739,22,2087
+2014-02-24,VY1890,"Barcelona / El Prat (BCN/LEBL)","Hannover / Hannover (HAJ/EDDV)",10:20:00,12:50:00,02:30:00,"Vueling Airlines (VY/VLG)","Airbus A319-200 (A319)",,,0,0,0,,239,1091,839,2074
+2014-02-23,VY3213,"Tenerife-North / Los Rodeos (TFN/GCXO)","Barcelona / El Prat (BCN/LEBL)",20:40:00,01:00:00,03:20:00,"Vueling Airlines (VY/VLG)"," ()",,,0,0,0,,2896,239,839,0
+2014-02-28,VY1891,"Hannover / Hannover (HAJ/EDDV)","Barcelona / El Prat (BCN/LEBL)",13:30:00,15:55:00,02:25:00,"Vueling Airlines (VY/VLG)","Airbus A319-200 (A319)",,,0,0,0,,1091,239,839,2074
+2014-03-03,VY3214,"Barcelona / El Prat (BCN/LEBL)","Tenerife-North / Los Rodeos (TFN/GCXO)",08:00:00,10:20:00,03:20:00,"Vueling Airlines (VY/VLG)"," ()",,,0,0,0,,239,2896,839,0
+2014-03-13,V01002,"Madrid / Barajas (MAD/LEMD)","Maiquetia / Simon Bolivar (CCS/SVMI)",11:00:00,15:30:00,09:30:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,1739,503,1390,0
+2014-03-28,G37623,"Maiquetia / Simon Bolivar (CCS/SVMI)","Sao Paulo / Guarulhos (GRU/SBGR)",22:10:00,05:40:00,06:30:00,"GOL (G3/GLO)"," ()",,,0,0,0,,503,1043,330,0
+2014-03-29,G37680,"Sao Paulo / Guarulhos (GRU/SBGR)","Buenos Aires / Jorge Newbery (AEP/SABE)",08:15:00,10:50:00,02:35:00,"GOL (G3/GLO)","Boeing 737-800 (B738)",,,0,0,0,,1043,51,330,231
+2019-11-05,V71547,"Naples / Capodichino (NAP/LIRN)","Palermo / Punta Raisi (PMO/LICJ)",08:30:00,09:30:00,01:00:00,"Volotea (V7/VOE)"," ()",,,0,1,1,,2016,2350,2355,0
+2013-12-14,V01234,"Buenos Aires / Ministro Pistarini (EZE/SAEZ)","Maiquetia / Simon Bolivar (CCS/SVMI)",04:00:00,09:30:00,06:30:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,3599,503,1390,0
+2013-05-24,V04321,"Maiquetia / Simon Bolivar (CCS/SVMI)","Buenos Aires / Ministro Pistarini (EZE/SAEZ)",23:00:00,07:00:00,07:00:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,503,3599,1390,0
+2013-05-07,CM223,"Panama City / Tocumen (PTY/MPTO)","Maiquetia / Simon Bolivar (CCS/SVMI)",14:56:00,18:14:00,02:18:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,2418,503,194,231
+2013-05-04,CM158,"Quito / Mariscal Sucre (UIO/SEQU)","Panama City / Tocumen (PTY/MPTO)",18:38:00,20:32:00,01:54:00,"Copa Airlines (CM/CMP)","Boeing 737-800 (B738)",,,0,0,0,,3086,2418,194,231
+2013-04-29,CM1230,"Maiquetia / Simon Bolivar (CCS/SVMI)","Quito / Mariscal Sucre (UIO/SEQU)",16:57:00,17:40:00,01:43:00,"Copa Airlines (CM/CMP)","Boeing 737-900 (B739)",,,0,0,0,,503,3086,194,232
+2012-12-01,V01234,"Maiquetia / Simon Bolivar (CCS/SVMI)","Buenos Aires / Ministro Pistarini (EZE/SAEZ)",04:00:00,11:50:00,06:50:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,503,3599,1390,0
+2012-12-15,V04321,"Buenos Aires / Ministro Pistarini (EZE/SAEZ)","Maiquetia / Simon Bolivar (CCS/SVMI)",00:00:00,00:00:00,07:10:00,"Conviasa (V0/VCV)"," ()",,,0,0,0,,3599,503,1390,0
+2011-11-01,AG2011,"Maiquetia / Simon Bolivar (CCS/SVMI)","Aruba I / Aruba (AUA/TNCA)",02:30:00,03:45:00,01:15:00,"Aruba Airlines (AG/ARU)"," ()",,,0,0,0,,503,184,2307,0
+2011-12-15,AG0000,"Aruba I / Aruba (AUA/TNCA)","Maiquetia / Simon Bolivar (CCS/SVMI)",15:50:00,17:15:00,01:25:00,"Aruba Airlines (AG/ARU)"," ()",,,0,0,0,,184,503,2307,0
+2010-10-08,9V22,"Maiquetia / Simon Bolivar (CCS/SVMI)","Porlamar / Del Caribe Santiano Marino (PMV/SVMG)",18:30:00,19:30:00,01:00:00,"Avior Regional (3R/RGR)","Boeing 737-200 (B732)",,,0,0,0,,503,2355,2255,225
+2010-10-15,9V21,"Porlamar / Del Caribe Santiano Marino (PMV/SVMG)","Maiquetia / Simon Bolivar (CCS/SVMI)",09:30:00,10:40:00,01:10:00,"Avior Regional (3R/RGR)","Boeing 737-200 (B732)",,,0,0,0,,2355,503,2255,225
+2009-10-16,CM9999,"Maiquetia / Simon Bolivar (CCS/SVMI)","Cartagena / Cartagena (CTG/SKCG)",10:00:00,10:15:00,01:15:00,"Copa Airlines (CM/CMP)"," ()",,,0,0,0,,503,628,194,0
+2009-10-31,CM1111,"Cartagena / Cartagena (CTG/SKCG)","Maiquetia / Simon Bolivar (CCS/SVMI)",20:45:00,23:05:00,01:20:00,"Copa Airlines (CM/CMP)","Boeing 737-900 (B739)",,,0,0,0,,628,503,194,232
+2008-12-05,VH0000,"Maiquetia / Simon Bolivar (CCS/SVMI)","Higuey / Punta Cana (PUJ/MDPC)",10:00:00,12:30:00,02:30:00,"Aeropostal Alas de Venezuela (VH/LAV)"," ()",,,0,0,0,,503,2422,461,0
+2008-12-12,VH9999,"Higuey / Punta Cana (PUJ/MDPC)","Maiquetia / Simon Bolivar (CCS/SVMI)",15:40:00,17:30:00,01:50:00,"Aeropostal Alas de Venezuela (VH/LAV)"," ()",,,0,0,0,,2422,503,461,0
+2008-08-29,9V1421,"Bogota / Eldorado Intl. (BOG/SKBO)","Maiquetia / Simon Bolivar (CCS/SVMI)",07:44:00,10:34:00,01:50:00,"Avior Regional (3R/RGR)","Boeing 737-400 (B734)",,,0,0,0,,371,503,2255,227
+2008-08-15,9V1420,"Maiquetia / Simon Bolivar (CCS/SVMI)","Bogota / Eldorado Intl. (BOG/SKBO)",13:00:00,13:50:00,01:50:00,"Avior Regional (3R/RGR)","Boeing 737-400 (B734)",,,0,0,0,,503,371,2255,227
+2007-05-18,,"Miami / Miami International (MIA/KMIA)","Maiquetia / Simon Bolivar (CCS/SVMI)",19:00:00,22:40:00,02:40:00," (/)"," ()",,,0,0,0,,1831,503,0,0
+2006-07-25,,"Miami / Miami International (MIA/KMIA)","Maiquetia / Simon Bolivar (CCS/SVMI)",12:00:00,15:45:00,02:45:00," (/)"," ()",,,0,0,0,,1831,503,0,0
+2006-08-06,,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",09:30:00,11:20:00,02:50:00," (/)"," ()",,,0,0,0,,503,1831,0,0
+2005-05-22,,"Miami / Miami International (MIA/KMIA)","Maiquetia / Simon Bolivar (CCS/SVMI)",12:30:00,16:15:00,02:45:00," (/)"," ()",,,0,0,0,,1831,503,0,0
+2005-07-31,,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",18:00:00,19:50:00,02:50:00," (/)"," ()",,,0,0,0,,503,1831,0,0
+2004-08-06,,"Orlando / Orlando (MCO/KMCO)","San Juan / Luis Munoz Marin Int (SJU/TJSJ)",07:15:00,11:00:00,02:45:00," (/)"," ()",,,0,0,0,,1768,2689,0,0
+2004-08-20,,"San Juan / Luis Munoz Marin Int (SJU/TJSJ)","Orlando / Orlando (MCO/KMCO)",06:30:00,08:40:00,03:10:00," (/)"," ()",,,0,0,0,,2689,1768,0,0
+2003-12-17,,"Miami / Miami International (MIA/KMIA)","Maiquetia / Simon Bolivar (CCS/SVMI)",12:30:00,16:20:00,02:50:00," (/)"," ()",,,0,0,0,,1831,503,0,0
+2004-01-05,,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",09:20:00,11:11:00,02:51:00," (/)"," ()",,,0,0,0,,503,1831,0,0
+2002-08-23,,"Miami / Miami International (MIA/KMIA)","Maiquetia / Simon Bolivar (CCS/SVMI)",17:45:00,21:20:00,02:35:00," (/)"," ()",,,0,0,0,,1831,503,0,0
+2002-09-16,,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",20:00:00,21:44:00,02:44:00," (/)"," ()",,,0,0,0,,503,1831,0,0
+2001-07-17,,"Maiquetia / Simon Bolivar (CCS/SVMI)","Miami / Miami International (MIA/KMIA)",08:55:00,11:05:00,03:10:00," (/)"," ()",,,0,0,0,,503,1831,0,0
+2009-12-13,,"Maiquetia / Simon Bolivar (CCS/SVMI)","La Fria / La Fria (LFR/SVLF)",16:30:00,17:20:00,00:50:00," (/)"," ()",,,0,0,0,,503,1602,0,0
+2019-11-12,FR9965,"Palermo / Punta Raisi (PMO/LICJ)","Madrid / Barajas (MAD/LEMD)",19:40:00,22:25:00,02:45:00,"Ryanair (FR/RYR)","Boeing 737-800 (B738)",EI-DYZ,,0,0,0,,2350,1739,668,231
+2019-11-14,DY7703,"Madrid / Barajas (MAD/LEMD)","New York / John F Kennedy (JFK/KJFK)",19:00:00,21:30:00,08:30:00,"Norwegian Air Shuttle (DY/NAX)","Boeing 787-9 (B789)",LN-LNI,,0,0,0,,1739,1328,552,2088
+2019-11-20,F91095,"Islip / Long Island MacArthur (ISP/KISP)","Orlando / Orlando (MCO/KMCO)",09:37:00,12:35:00,02:58:00,"Frontier Airlines (F9/FFT)","Airbus A320 (A320)",N309FR,,0,0,0,,1283,1768,302,27
+2020-01-02,DL1079,"Orlando / Orlando (MCO/KMCO)","Cancun / Cancun (CUN/MMUN)",08:44:00,10:45:00,02:01:00,"Delta Air Lines (DL/DAL)","Boeing 737-900 (B739)",N821DN,,0,0,0,,1768,639,223,232
+2020-01-22,Y4266,"Merida / Lic Manuel Crecencio (MID/MMMD)","Oaxaca / Xoxocotlan (OAX/MMOX)",06:15:00,08:00:00,01:45:00,"Volaris (Y4/VOI)","Airbus A320neo (A20N)",N538VL,,0,0,0,,1833,2142,1327,2127
+2020-02-14,4O2350,"Mexico City / Juarez (MEX/MMMX)","Cozumel / Cozumel (CZM/MMCZ)",12:10:00,15:10:00,02:00:00,"Interjet (4O/AIJ)","Airbus A321-200 (A321)",,,0,0,0,,1800,666,1326,2076
+2020-03-14,DL936,"Cancun / Cancun (CUN/MMUN)","Tampa / Tampa (TPA/KTPA)",11:05:00,13:59:00,01:54:00,"Delta Air Lines (DL/DAL)","Boeing 737-900 (B739)",N839DN,,0,0,0,,639,2994,223,232
